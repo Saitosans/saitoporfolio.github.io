@@ -76,7 +76,7 @@ body {
 .knight {
   margin: 0;
   position: absolute;
-  margin-left: 950px;
+  margin-left: 700px;
   margin-bottom: 400px;
   z-index: 4;
 }
