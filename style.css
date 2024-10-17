@@ -322,7 +322,7 @@ body {
 .backgroundlast {
   position: absolute;
   z-index: 12;
-  top: 490vh;
+  top: 450vh;
 }
 
 .textexperience {
@@ -332,7 +332,7 @@ body {
   width: 1920;
   height: 500;
   color: white;
-  top: 523vh;
+  top: 490vh;
   left: 15vh;
   font-size: 30;
 }
@@ -361,7 +361,7 @@ body {
   width: 1920;
   height: 500;
   color: white;
-  top: 556vh;
+  top: 524vh;
   left: 15vh;
   font-size: 30;
 }
@@ -399,7 +399,7 @@ body {
   width: 1640px;
   height: 10px;
   background-color: #0046AF;
-  top: 551.5vh;
+  top: 515.5vh;
   left: 15vh;
   align-content: center;
 }
